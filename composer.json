@@ -1,0 +1,9 @@
+{
+    "name": "basic-app/meta-helper",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BasicApp\\MetaHelper\\": ""
+        }
+    }
+}
